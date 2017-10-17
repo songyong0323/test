@@ -7,7 +7,7 @@ package jvmtest;
  */
 public class ByteUtils {
 
-	//
+	//develop提交
 	public static int bytes2Int(byte[] b, int start, int len) {
         int sum = 0;
         int end = start + len;
@@ -19,6 +19,7 @@ public class ByteUtils {
         return sum;
     }
 
+	//develop提交
     public static byte[] int2Bytes(int value, int len) {
         byte[] b = new byte[len];
         for (int i = 0; i < len; i++) {
