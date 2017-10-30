@@ -11,8 +11,7 @@ package effective.chapter2;
  * 创建时间 ： 2017年5月10日上午9:37:56
  */
 public class Complex {
-	
-	//123213
+	//dierban
 	private static int dd;
 	
 	public Complex() {
