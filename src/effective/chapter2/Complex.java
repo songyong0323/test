@@ -11,7 +11,7 @@ package effective.chapter2;
  * 创建时间 ： 2017年5月10日上午9:37:56
  */
 public class Complex {
-	//我先改一版
+	//我在回退版本上改第二版
 	private static int dd;
 	
 	public Complex() {
