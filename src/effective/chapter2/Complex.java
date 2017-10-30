@@ -12,6 +12,7 @@ package effective.chapter2;
  */
 public class Complex {
 	
+	//hahahhaa
 	private static int dd;
 	
 	public Complex() {
